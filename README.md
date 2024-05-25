@@ -1,6 +1,6 @@
 # Image Denoising Using Deep Convolutional Neural Network
 
-# TECHSAKSHAM | CAPSTONE PROJECT | EDUNET FOUNDATION | 
+# TECHSAKSHAM | CAPSTONE PROJECT | EDUNET FOUNDATION  
 
 Image Denoising Using Deep Convolutional Neural Network:
 
